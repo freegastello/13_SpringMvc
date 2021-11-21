@@ -2,15 +2,7 @@
 .settings/
 .target/
 .idea/
-.worksheet/
-bin/
-build/
-dist/
-logs/
-node_modules/
-out/
 target/
-tmp/
 
 # files
 *.iml
@@ -27,4 +19,3 @@ tmp/
 .idea
 .idea_modules
 .project
-RUNNING_PID
